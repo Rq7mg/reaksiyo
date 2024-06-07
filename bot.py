@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 import requests
 import random
 
-api_id = 22467439 #--Add your Api Id here
+api_id = 22467439  #--Add your Api Id here
 api_hash = 'cec47ae9c153dcf1aa74999a389b3341' #--Enter Api Hash Here
 
 token = '7218232167:AAHiNANcjt6PggG-92Hijy2Jx5GMUW7BCqo' #--Enter Bot Token Here.
